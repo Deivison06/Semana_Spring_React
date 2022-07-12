@@ -1,6 +1,6 @@
-import logo from '../../Assets/img/Logo.svg'
+import logo from '../../Assets/img/Logo.svg';
 
-import './style.css'
+import './style.css';
 
 function Header() {
     return (
@@ -17,4 +17,4 @@ function Header() {
     )
 }
 
-export default Header
+export default Header;
